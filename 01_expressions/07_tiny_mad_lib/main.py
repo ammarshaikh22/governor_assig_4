@@ -7,5 +7,4 @@ def main():
 
     print(SENTENCE_START + adjective + " " + noun + " " + verb + "!")
 
-if __name__ == '__main__':
-    main()
+main()

@@ -6,6 +6,4 @@ def main():
     perimeter = side1 + side2 + side3
     print("The perimeter of the triangle is " + str(perimeter))
 
-
-if __name__ == '__main__':
-    main()
+main()

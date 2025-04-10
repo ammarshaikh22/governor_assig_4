@@ -5,5 +5,4 @@ def main():
     remainder: int = dividend % divisor
     print("The result of this division is " + str(quotient) + " with a remainder of " + str(remainder))
 
-if __name__ == '__main__':
-    main()
+main()

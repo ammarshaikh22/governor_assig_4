@@ -12,4 +12,4 @@ def main():
     print(f"Drew is {drew} years old.")
     print(f"Ethan is {ethan} years old.")
 
-    main()
+main()

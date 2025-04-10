@@ -13,5 +13,4 @@ def main():
     print("Second die:", die2)
     print("Total of two dice:", total)
 
-if __name__ == '__main__':
-    main()
+main()
